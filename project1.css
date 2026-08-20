@@ -1,0 +1,40 @@
+.header{
+    background-color: #6d3c00d7;
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+a{
+    color: yellow;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 5px;
+}
+.header1{
+   color: rgb(223, 180, 9);
+}
+.welcome{
+    background-color: blanchedalmond;
+    color: #6d3c00d7;
+}
+.list1{
+     background-color: blanchedalmond;
+     
+}
+.highlight{
+    color: black;
+    background-color: aqua;
+}
+.CustomerReviews{
+    background-color: blanchedalmond;
+}
+.cafetimings{
+    background-color: rgba(234, 236, 236, 0.788);
+}
+.download{
+    text-align:center;
+}
+.contactus{
+    background-color: #6d3c00d7;
+    text-align: center;
+    color: aliceblue;
+}

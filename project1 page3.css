@@ -1,0 +1,84 @@
+
+.header{
+    background-color:lab(5.69% 16.32 7.6 / 0.899);
+    text-align: center;
+    color: aliceblue;
+}
+.header1{
+    color: rgba(199, 127, 3, 0.87);
+}
+a {
+    color: yellow;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.welcome {
+    background-image: url('https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudCUyMGJhY2tncm91bmQlMjBmb3IlMjBodG1sfGVufDB8fDB8fHww');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.upcoming-head{
+    font-size: 40px;
+    color: #FFCB00;
+}
+
+table {
+  width: 60%;
+  border: 1px solid #ffffff;
+}
+
+th {
+    background-image: linear-gradient(#210E03, #542104);
+    color: #FFF3E3;
+}
+td {
+    background-color: #FFF3E3;
+    color: #210E03;
+}
+.reserve {
+    padding: 30px;
+}
+.reserve-head {
+    font-size: 30px;
+    color: #FFCB00;
+}
+
+.reserve-para {
+    font-size: 15px;
+    color: #FFCB00;
+}
+
+.reservation-text {
+    color: red;
+    font-size:35px;
+    font-style: bold;
+}
+
+.reservation-form {
+    background-color: #f5efd4;
+    padding: 10px;
+}
+
+input {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+label {
+    font-size: 25px;
+    margin:10px;
+
+}
+
+.button-reserve {
+
+    background-color: #210E03;
+    color: #f5efd4;
+    padding: 10px;
+    border-radius:5px;
+} 

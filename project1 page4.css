@@ -1,0 +1,75 @@
+.header{
+    background-color:lab(5.69% 16.32 7.6 / 0.899);
+    text-align: center;
+    color: aliceblue;
+}
+a {
+    color: yellow;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 5px;
+}
+.header1{
+    color: rgba(240, 178, 70, 0.87);
+}
+.menu{
+    background-color: rgb(252, 249, 234);
+    color:rgb(94, 57, 57);
+    margin-top:0cm;
+      padding: 5px;
+}
+.coffeecollection{
+    background-color: rgb(252, 249, 234);
+    color:rgb(94, 57, 57);
+    text-align: center;
+      padding: 0px;  
+}
+.desserts{
+    text-align: center;
+     background-color: rgb(252, 249, 234);
+    color:rgb(94, 57, 57);
+      padding: 1px;  
+
+}
+.maincourse{
+    text-align: center;
+     background-color: rgb(252, 249, 234);
+    color:rgb(94, 57, 57);
+      padding: 0px;  
+    
+}
+.head{
+    text-align: center;
+    background-color:rgb(94, 57, 57) ;
+    color:aliceblue;
+    
+   
+}
+.todays{
+       text-align: center;
+     background-color: rgb(252, 249, 234);
+    color:rgb(94, 57, 57);
+}
+.menu{
+    color: #292602e2;
+    font-size: large;
+}
+.maintable{
+    background-color: #ffffff;
+    margin-left: 20px;
+    margin-right: 20px;
+   
+}
+.table{
+   border: 5px;
+   border-color: azure;
+   align-items: center;
+   width:70vh;
+   padding: 1px;
+  
+}
+.contactus{
+    background-color: #633d0ed7;
+    text-align: center;
+    color: aliceblue;
+}
